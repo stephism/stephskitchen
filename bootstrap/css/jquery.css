@@ -1,0 +1,7 @@
+.clicked{
+	padding: 10px;
+	border:1px dotted green;
+	color: white;
+	margin:10px;
+	outline: none;
+}

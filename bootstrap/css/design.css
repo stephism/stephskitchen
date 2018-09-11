@@ -1,0 +1,39 @@
+body{
+	background-color: salmon;
+  font-family: serif;"
+}
+.nav-bar{
+    background-color: none;
+    display: flex;
+   } 
+   
+#nav-icons{
+  text-align: right;
+  float:right;
+  width: 91%;
+}
+
+
+ul li{
+  list-style-type: none;
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+  padding: 15px;
+}
+
+ul{
+  padding: 10px;
+  margin: 50px 25px 0px;
+}
+
+#main-section{
+  border: none;
+  display: inline-flex;
+  color: white;
+}
+#sub-section{
+  display: flex;
+  color: white;
+}
+
